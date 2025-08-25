@@ -1,0 +1,4 @@
+name: netflix_dataset
+type: duckdb
+options:
+  filename: netflix_dataset.duckdb
